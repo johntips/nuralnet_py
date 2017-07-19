@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+mnist_data
+mnist_dataset
+my_own_images
